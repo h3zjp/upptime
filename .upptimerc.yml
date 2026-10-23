@@ -6,6 +6,8 @@ user-agent: upptime
 sites:
   - name: h3zjp Server Status
     url: https://status.h3z.jp/status/info
+  - name: h3zjp Server Status (Backup)
+    url: https://status2.h3z.jp/
 
 assignees: # Users to assign downtime issues (optional)
   - h3zjp
@@ -16,9 +18,9 @@ status-website:
   # cname: status3.h3z.jp
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: h3zjp Server Status
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: "h3zjp Server Status Monitoring"
+  introTitle: "h3zjp Server Status Monitoring"
+  introMessage: "七海灯の各種ステータスページの稼働状態を監視しているWebサイトです。"
   navbar:
     - title: Status
       href: /
