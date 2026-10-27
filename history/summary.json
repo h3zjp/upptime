@@ -22,17 +22,20 @@
     "url": "https://status2.h3z.jp/",
     "icon": "https://icons.duckduckgo.com/ip3/status2.h3z.jp.ico",
     "slug": "h3zjp-server-status-backup",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 550,
-    "timeDay": 573,
-    "timeWeek": 550,
-    "timeMonth": 550,
-    "timeYear": 550,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "96.63%",
+    "uptimeDay": "86.72%",
+    "uptimeWeek": "96.63%",
+    "uptimeMonth": "96.63%",
+    "uptimeYear": "96.63%",
+    "time": 534,
+    "timeDay": 523,
+    "timeWeek": 534,
+    "timeMonth": 534,
+    "timeYear": 534,
+    "dailyMinutesDown": {
+      "2026-10-27": 34,
+      "2026-10-26": 157
+    }
   }
 ]
